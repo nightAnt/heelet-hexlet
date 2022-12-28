@@ -1,1 +1,1 @@
-Hello, it's my introducing into JavaScript ! 
+Hello, it's my introducing into JavaScript !
